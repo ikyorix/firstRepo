@@ -1,1 +1,3 @@
 Hello I'm a new file!
+
+This is an update of the second file!
